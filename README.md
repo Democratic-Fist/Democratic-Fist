@@ -1,16 +1,14 @@
-## Hi there 👋
+## Welcome to my profile 💜
 
-<!--
-**Democratic-Fist/Democratic-Fist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is José Eduardo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando na Alura
+- estou me desenvolvendo na linguagem de JavaScript
+- Utilizo este espaço para organização e compartilhamento dos meus projetos desenvolvidos
+
+## Você pode entrar em contato comigo 📫
+
+jose.lino.chaves@escola.pr.gov.br
+
+![](https://media.tenor.com/CWJFL-nA1wIAAAAM/helldivers-2-democracy.gif)
