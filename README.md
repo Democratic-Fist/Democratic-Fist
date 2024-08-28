@@ -3,7 +3,7 @@
 
 My name is José Eduardo
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem de JavaScript
 - Utilizo este espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
