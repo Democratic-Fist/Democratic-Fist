@@ -11,4 +11,4 @@ My name is José Eduardo
 
 jose.lino.chaves@escola.pr.gov.br
 
-![](https://media.tenor.com/CWJFL-nA1wIAAAAM/helldivers-2-democracy.gif)
+![](https://media1.tenor.com/m/gfelMNw7lYAAAAAC/dive-together-or-dont-dive-helldivers.gif)
